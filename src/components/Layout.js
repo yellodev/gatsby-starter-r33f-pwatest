@@ -48,6 +48,7 @@ class Layout extends Component {
               meta={[
                 { name: 'description', content: 'Spectral' },
                 { name: 'keywords', content: 'site, web' },
+                { name: 'theme-color', content: '#DDDDDD' },
               ]}
             >
               <html lang="en" />

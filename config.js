@@ -1,9 +1,9 @@
 module.exports = {
-  siteTitle: 'Starter r33f', // <title>
+  siteTitle: 'PWA Test', // <title>
   manifestName: 'r33f',
-  manifestShortName: 'Landing', // max 12 characters
+  manifestShortName: 'Kiiwi', // max 12 characters
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#FFFFFF',
+  manifestBackgroundColor: '#DDDDDD',
   manifestThemeColor: '#DDDDDD',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/kiiwi_icon.png',
