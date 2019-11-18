@@ -1,15 +1,15 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Spectral', // <title>
-  manifestName: 'Spectral',
+  siteTitle: 'Starter r33f', // <title>
+  manifestName: 'r33f',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#FFFFFF',
-  manifestThemeColor: '#FFFFFF',
+  manifestThemeColor: '#DDDDDD',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/kiiwi_icon.png',
   pathPrefix: `/gatsby-starter-r33f-pwatest/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Vince Reef',
-  subHeading: 'Full time Web Developer. Part time Weed Smoker ',
+  subHeading: 'Full time Web Developer.',
   // social
   socialLinks: [
     {
